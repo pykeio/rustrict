@@ -24,6 +24,7 @@ assholes
 ates
 ays
 b
+babes
 badasses
 ball sac
 ball sag
@@ -58,6 +59,7 @@ blackballs
 blackbreast
 blackbutt
 blackcock
+blowhards
 blow job
 blow jobs
 blow mee
@@ -99,6 +101,7 @@ buggers
 buggery
 bullshit(.*)
 bums
+bungholes
 but holes
 buttocks
 butts
@@ -126,6 +129,7 @@ clitoris(.*)
 clitoritis
 clitoromania
 co
+cocaines
 cockbell(.*)
 cockboat(.*)
 cockbrain
@@ -196,6 +200,7 @@ f
 fa
 fatsos
 fatsoes
+fackings
 facks
 fag(.*)
 fascists
@@ -255,6 +260,7 @@ goddammit
 goddamn
 goddamns
 goddams
+gonads
 gringos
 gs
 h
@@ -339,6 +345,7 @@ le
 les
 lesbia
 li
+liars
 livesex
 ll
 lo
@@ -381,6 +388,7 @@ nee gros
 nerds
 ng ger
 ni
+nickers
 nick her
 nick ker
 nidiot
@@ -420,6 +428,7 @@ penetrators
 penises
 penist
 pennis
+perverts
 ph
 (.*)phallus
 pissed
@@ -458,6 +467,7 @@ queers
 r
 ra
 rab
+racisms
 racists
 raped
 rapeful
@@ -504,6 +514,7 @@ sociosexual
 spank me
 spanks
 spastics
+sperms
 spics
 spunked
 spunks
